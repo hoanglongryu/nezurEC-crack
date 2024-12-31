@@ -32,4 +32,3 @@ Screenshot
 <img style="width: 30%; height: 30%;" src="https://raw.githubusercontent.com/hoanglongryu/nezurEC-crack/refs/heads/main/img/ScreenShot_20241231162452.png" alt="">
 ## The End
 ___Good luck!___
----
