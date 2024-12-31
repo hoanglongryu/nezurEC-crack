@@ -18,5 +18,18 @@ Cut or copy, paste into the alternate folder the file named “Nezur_Interface.d
 ## Note
 (Windows) The file does not contain any malicious commands, but Windows Security blocks it.
 
+## Or 
+If you don't want to download.
+Just copy and paste this code
+[Click here](https://raw.githubusercontent.com/hoanglongryu/nezurEC-crack/refs/heads/main/KeyPage%4002000008.txt)
+
+Address change
+```
+>Nezur_Interface/Nezur_Interface/KeyPage
+```
+Screenshot
+
+<img style="width: 30%; height: 30%;" src="https://raw.githubusercontent.com/hoanglongryu/nezurEC-crack/refs/heads/main/img/ScreenShot_20241231162452.png" alt="">
 ## The End
 ___Good luck!___
+---
